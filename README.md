@@ -21,12 +21,12 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Gabriel Barradas         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gabrielbarradas) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
-| Scrum Master  | João Mendes |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-mendes-49aa9b1a1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
-| Team Member   | Ingrid Rosa              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-rosa-6a564a18a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
-|  Team Member  | Rafael Lira                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rafael-cesar-de-lira-140733223) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
-|  Team Member  | Luan Martins               |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/luanmartins00) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
-|  Team Member  | João Breves       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-breves/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
+| Product Owner |   Gabriel Barradas         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gabrielbarradas) |
+| Scrum Master  | João Mendes |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-mendes-49aa9b1a1/) |
+| Team Member   | Ingrid Rosa              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-rosa-6a564a18a/) |
+|  Team Member  | Rafael Lira                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rafael-cesar-de-lira-140733223) |
+|  Team Member  | Luan Martins               |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/luanmartins00) |
+|  Team Member  | João Breves       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-breves/)  |
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
@@ -47,44 +47,31 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Visualização em um dashboard da produtividade dos veículos, a utilização das rotas por tipo de veículo;
+- [ ] Visualização em um dashboard da taxa de ocupação dos veículos em cada rota;
+- [ ] Visualização da capacidade dos veículos e sua taxa de utilização por rota;
+- [ ] Estatísticas da ocupação dos veículos e a capacidade;
+- [ ] Analise quão distante o cenário atual está do ótimo (custo e tempo);
+- [ ] Visualização em um dashboard a situação atual das rotas, incluindo os custos associados a cada uma;
+- [ ] Visualização dos custos de frete contabilizados para cada rota.;
 
 ## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [ ] Analise do possíveis erros na base de dados;
+- [ ] Visualização em um dashboard a taxa de ocupação dos veículos em cada rota;
+- [ ] Analise do lead time ideal para as entregas;
+- [ ] Visualização em um radar (dashboard) a comparação entre o lead time esperado e realizado;
+- [ ] Analise para garantir que o lead time esteja dentro da faixa aceitável (conforme os contratos com os clientes);
+- [ ] Estudo estatístico do lead time que demonstre a taxa de atendimento dos prazos acordados em contrato com os clientes;
+- [ ] Estudo estatístico indicando o percentual de rotas cumpridas dentro do prazo e as que não foram atendidas;
+- [ ] Visualização dos dados de previsão de demanda de 2025 para estimar cenários futuros;
+- [ ] Modelagem matemática para definir o cenário ótimo (DEA); 
       
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Analise para identificar as rotas com maior e menor ocupação;
+- [ ] Analise para identificar qual combinação de planta produtiva e cliente gera os maiores custos;
+- [ ] Analise para identificar a forma mais eficiente de realizar as entregas, considerando o menor custo e o menor tempo possível;
+- [ ] Analise dos niveis de serviço realizado (SLA - atendido dentro do prazo e atendido fora do prazo;
       
-## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
 
 # Registro das Sprints
 
