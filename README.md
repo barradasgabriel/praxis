@@ -11,7 +11,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
-* [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
@@ -39,19 +38,13 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Tecnologias utilizadas para comunicação e entrega das demandas do cliente.
 
 > Power Bi
 > Python
 > Slack
 > GitHub
  
-
-  
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega.
-> Power Bi
-> GitHub
 
 # Backlog do produto
 
