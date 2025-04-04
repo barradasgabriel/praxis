@@ -19,7 +19,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 Descrição da demanda realizada pelo parceiro acadêmico.
 
 # Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                     |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Gabriel Barradas         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gabrielbarradas) |
 | Scrum Master  | João Mendes |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-mendes-49aa9b1a1/) |
