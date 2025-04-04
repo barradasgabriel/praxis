@@ -3,9 +3,8 @@ Repositório da equipe Praxis para o projeto de 3° semestre de logística FATEC
 
 # Aprendizado por Projeto Integrador (API)
 
-Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
-
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+
 
 # Índice
 * [Projeto](#projeto-template)
@@ -16,7 +15,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+
+O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize informações sobre a produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga com criação e modelagem de um banco de dados em SQL.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                     |
@@ -40,9 +40,18 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
  ### Tecnologias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+
+> Power Bi
+> Python
+> Slack
+> GitHub
+ 
+
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Liste aqui todas as tecnologias utilizadas para concluir a entrega.
+> Power Bi
+> GitHub
 
 # Backlog do produto
 
