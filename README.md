@@ -28,12 +28,14 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 |  Team Member  | João Breves       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-breves/)  |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo propor a otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga, visando:
+
+* Análise de Produtividade (taxa média de ocupação dos veículos);
+* Identificação de Rotas com Alto Custo;
+* Otimizar o custo realizado pelo cliente;
+* Análise de Lead Time (realizado e idal);
+* Análise de Movimentação (principais clientes);
+* Análise de oportunidades;
 
 ## Tecnologias Utilizadas
 
