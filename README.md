@@ -1,4 +1,5 @@
-# Praxis![logo Práxis](https://github.com/user-attachments/assets/e83c752a-5627-4999-b067-00ab516f3758)
+# Praxis
+![logo Práxis](https://github.com/user-attachments/assets/e83c752a-5627-4999-b067-00ab516f3758)
 
 Repositório da equipe Praxis para o projeto de 3° semestre de logística FATEC-SJC 
 
