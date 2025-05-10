@@ -84,7 +84,7 @@ Este projeto tem como objetivo propor a otimização de distribuição e de cust
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 14/03/2025 | Concluido| [MVP](https://github.com/barradasgabriel/praxis/raw/refs/heads/main/Sprint%201.pbix) | 
-|02|  09/05/2025| Conclido |[MVP](https://github.com/barradasgabriel/praxis/raw/refs/heads/main/Sprint2.pbix) [MVP-2](https://github.com/barradasgabriel/praxis/blob/main/Sprint%202%20(1).pbix)| 
+|02|  09/05/2025| Concluido |[MVP](https://github.com/barradasgabriel/praxis/raw/refs/heads/main/Sprint2.pbix) [MVP-2](https://github.com/barradasgabriel/praxis/blob/main/Sprint%202%20(1).pbix)| 
 |03| 23/05/2025 | a fazer|[MVP](https://) | 
 |04| 17/06/2025 |a fazer |[MVP](https://)  | 
 |Feira de Soluções|29/05/2025 |a fazer |[MVP](https://) | 
